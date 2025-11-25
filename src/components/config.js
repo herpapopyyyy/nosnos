@@ -140,9 +140,10 @@ const config = {
 
   // 🔍 Search Queries (Only change if modifying search functionality)
   correctSearchQueries: [
-    "How long have we been together?", // Example of a correct search query
-    "how long have we been together", // Another example of a correct search query
+    "How long have we been friends?", // Example of a correct search query
+    "how long have we been friends", // Another example of a correct search query
   ],
 };
 
 export default config;
+
